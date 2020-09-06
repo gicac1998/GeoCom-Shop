@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAwDA,eAAgB;EACf,UAAU,EAAE,0CAA2C",
+"sources": ["_config.scss"],
+"names": [],
+"file": "_config.css"
+}
